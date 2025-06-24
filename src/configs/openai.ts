@@ -29,9 +29,6 @@ export async function generateAnswerStream(question: string, context: string) {
         role: 'user',
         content: `Context:\n${context}\n\nQuestion: ${question}`,
       },
-      history:[
-        
-      ]
     ],
   });
 
