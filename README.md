@@ -14,8 +14,8 @@ This project is a Node.js application designed to handle Retrieval-Augmented Gen
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
-   cd rag
+   git clone github.com/walonCode/testing_rag.git
+   cd testing_rag
    ```
 2. Install the dependencies:
    ```bash
@@ -76,9 +76,8 @@ OPENAI_API_KEY=your_openai_api_key
 ├── tsconfig.json
 ```
 
-## Authors and Acknowledgments
-[Author’s Name (X Handle)](https://twitter.com/authogithubhandle)
-[Author’s GitHub (Github Handle)](https://github.com/authogithubhandle)
+## Author
+[Author’s GitHub (walonCode)](https://github.com/walonCode)
 
 ## Contribution
 Contributions are welcome! Please follow these steps:
